@@ -1,7 +1,7 @@
 # AMALTHEA-Microworkload-Generator
 Command line tool generating micro workloads from an AMALTHEA application.
 
-To get the tool you must clone this repository and its submodules. To clone the repository if you have a gite.lirmm.fr account with an SSH key registered use `git clone git@gite.lirmm.fr:McSim/AMALTHEA-Microworkload-Generator.git`. Else use `git clone https://gite.lirmm.fr/McSim/AMALTHEA-Microworkload-Generator.git`. Then use `cd AMALTHEA-Microworkload-Generator` followed by `git submodule init` followed by `git submodule update` to clone submodules.
+To get the tool you must clone this repository and its submodules. To clone the repository if you have a gite.lirmm.fr account with an SSH key registered use `git clone git@github.com:DreamCloud-Project/AMALTHEA-Microworkload-Generator.git`. Else use `git clone https://github.com/DreamCloud-Project/AMALTHEA-Microworkload-Generator.git`. Then use `cd AMALTHEA-Microworkload-Generator` followed by `git submodule init` followed by `git submodule update` to clone submodules.
 
 ## Using the tool
 
